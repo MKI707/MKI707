@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Cacho
+# 👋 ¡Hola! Soy Marco
 
 Soy un desarrollador en formación desde Lugano, Buenos Aires. Me gusta crear aplicaciones web y juegos. Me estoy metiendo de lleno en HTML, CSS, JavaScript y MySQL, y también ando aprendiendo Python y Java. 🚀
 
@@ -24,11 +24,11 @@ Soy un desarrollador en formación desde Lugano, Buenos Aires. Me gusta crear ap
 - Seguir mejorando como programador
 
 ## 📫 Contacto:
-Si querés charlar o colaborar en algún proyecto, podés escribirme por GitHub o dejarme una estrella ⭐ en algún repo.
+Si querés charlar o colaborar en algún proyecto, podés escribirme por GitHub o por mi mail marcomontarner@gmail.com .
 
 ---
 
-> “El que abandona no tiene premio.” – Frase que me recuerda seguir metiéndole.
+> “El que abandona no tiene premio.”
 
 Gracias por pasarte por mi perfil. ¡Nos vemos en el código!
 
