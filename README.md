@@ -3,7 +3,7 @@
 Soy un desarrollador en formación desde Lugano, Buenos Aires. Me gusta crear aplicaciones web y juegos. Estoy aprendiendo HTML, CSS, MySQL y lenguaje C. 🚀
 
 ## 🔧 Tecnologías y herramientas que uso:
-- 💻 HTML | CSS | C
+- 💻 HTML | CSS | C | Java | JavasCript
 - 🛢️ MySQL
 - 🛠️ XAMPP | VS Code | Git
 
@@ -13,12 +13,6 @@ Soy un desarrollador en formación desde Lugano, Buenos Aires. Me gusta crear ap
 - **Snake Game 🐍** – Juego clásico de la víbora hecho en Java como proyecto personal.
 - **Dulce Azar 🎰** – Aplicación web tipo casino que simula tragamonedas y apuestas.
 - **TP Calculadora ➗** – Trabajo práctico funcional hecho como parte de mis estudios, donde desarrollé una calculadora con operaciones básicas.
-
-## 📚 Actualmente aprendiendo:
-- Programación en C
-- Protocolos web como HTTP
-- Bases de datos relacionales
-- Fundamentos de economía (sí, también estudio eso 😄)
 
 ## 💡 Me interesa:
 - El desarrollo web
