@@ -1,8 +1,5 @@
-<svg viewBox="0 0 500 100">
-  <text x="0" y="50" font-size="30" fill="white">
-    ¡Hola! Soy Marco 👋
-  </text>
-</svg>
+
+¡Hola! Soy Marco 👋
 
 
 Actualmente estoy cursando el ultimo año de secundaria en el Instituto La Salette. Me gusta crear aplicaciones web y juegos🚀
