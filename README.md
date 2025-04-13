@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Marco
 
-Soy un desarrollador en formación desde Lugano, Buenos Aires. Me gusta crear aplicaciones web y juegos. Estoy aprendiendo HTML, CSS, MySQL y lenguaje C. 🚀
+Soy un desarrollador en formación. Me gusta crear aplicaciones web y juegos. Estoy aprendiendo HTML, CSS, MySQL y lenguaje C. 🚀
 
 ## 🔧 Tecnologías y herramientas que uso:
 - 💻 HTML | CSS | C | Java | JavasCript
