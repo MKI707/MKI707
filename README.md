@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Marco
 
-Soy un desarrollador en formación. Me gusta crear aplicaciones web y juegos. Estoy aprendiendo HTML, CSS, MySQL y lenguaje C. 🚀
+Actualmente estoy cursando el ultimo año de secundaria en el Instituto La Salette. Me gusta crear aplicaciones web y juegos🚀
 
 ## 🔧 Tecnologías y herramientas que uso:
 - 💻 HTML | CSS | C | Java | JavasCript
