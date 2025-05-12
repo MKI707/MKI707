@@ -9,7 +9,7 @@ Actualmente estoy cursando el ultimo año de secundaria en el Instituto La Salet
 - 🛢️ MySQL
 - 🛠️ XAMPP | VS Code | Git
 
-## 🎮 Proyectos que estoy desarrollando:
+## 🎮 Proyectos en los que trabajé:
 
 - **Batalla de Manos 🖐️🔥** – Juego web estilo piedra, papel o tijera con ranking global usando MySQL.
 - **Snake Game 🐍** – Juego clásico de la víbora hecho en Java como proyecto personal.
